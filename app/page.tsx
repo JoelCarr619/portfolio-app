@@ -66,7 +66,7 @@ export default function Home() {
   const education = [
     {
       name: "Customer Success Apprenticeship (Nov 2021 - Jan 2022) ",
-      content: "Customer Success Manager",
+      content: "Customer Success Manager- Completed rigorous training (300+ hours) with assessment of Customer Success skills by instructional coaches and industry professionals.  CS workflow: the customer journey; human-centered customer engagement; practical experience with data and tech tools; managing risk and effectively escalating issues; following up with customers and logging activity; creating stories, executive summaries, and slide decks for effective EB. ",
     },
     {
       name: "University Of Phoenix (Aug 2011 - Dec 2015) ",
